@@ -24,6 +24,8 @@ In the target/classes and under the practice package the corresponding
 class files are written.
 
 
+The corresponding code snippets are in the wiki link given below
 
+https://github.com/sreelekha23/uniqueidentifier1/wiki/Unique-identifier
 
 
